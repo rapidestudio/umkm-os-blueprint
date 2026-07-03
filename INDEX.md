@@ -6,5 +6,5 @@
 
 → Product POS (WHAT)
 
-→ Engineering Bible + ADR (HOW)
+→ Engineering Bible + Design + ADR (HOW)
 
