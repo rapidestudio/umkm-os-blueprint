@@ -1,3 +1,2 @@
 # START HERE
-
-Baca Constitution -> Company -> Product -> Engineering.
+Baca AI_CONTEXT → REPOSITORY_MAP → DOCUMENT_STANDARDS
