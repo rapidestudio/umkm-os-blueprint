@@ -1,0 +1,2 @@
+# Contributing
+Gunakan Conventional Commits.
