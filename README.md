@@ -1,3 +1,2 @@
-# UMKM OS Blueprint Pack 002
+# UMKM OS Blueprint
 
-AI Foundation Layer
